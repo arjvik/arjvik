@@ -15,3 +15,5 @@ I'm currently working on applying Machine Learning and Computer Vision technique
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arjvik&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffff00&border_radius=20&hide_border=true" alt="Arjun Vikram's GitHub Stats"/>
 </p>
+
+### :point_down: Check out my favorite projects below :point_down:

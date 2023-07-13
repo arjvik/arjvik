@@ -17,7 +17,7 @@ I graduated as :2nd_place_medal: Salutatorian from the :mortar_board: [School of
 
 In the past, I've
 
-- Worked with [@DagsHub :dog:](https://github.com/dagshub) ([dagshub.com :paw_prints:](https://dagshub.com/)) as an :man_technologist: as an MLOps Engineer, developing 🎛️ tooling and infrastructure around 👨‍🔬 ML practitioners' workflows to facilitate 🧈 smooth, 📋 reproducible, and 📔 well-documented experimentation. My [blog post about 🛠️ Reverse Engineering Google Colab] reached the front page of Hacker News!
+- Worked with [@DagsHub :dog:](https://github.com/dagshub) ([dagshub.com :paw_prints:](https://dagshub.com/)) as an :man_technologist: as an MLOps Engineer, developing 🎛️ tooling and infrastructure around 👨‍🔬 ML practitioners' workflows to facilitate 🧈 smooth, 📋 reproducible, and 📔 well-documented experimentation. My [blog post about 🛠️ Reverse Engineering Google Colab](https://news.ycombinator.com/item?id=31851031) reached the front page of Hacker News!
 - Researched applying :eye: Computer Vision techniques to Cancer Histopathology with the [:test_tube: Rajaram Lab at UT Southwestern](https://www.rajaramlab.org/).
 - Volunteered with the [:basketball: Mark Cuban AI Foundation](https://markcubancompanies.com/projects/ai-bootcamps/) to :man_teacher: teach the basics of Artificial Intelligence to :woman_student: high school students from underserved communities with :negative_squared_cross_mark: no technical background.
 

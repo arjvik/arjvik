@@ -1,6 +1,6 @@
 # Hi, I'm Arjun Vikram
 
-## I am a :biking_man: student at [:evergreen_tree: Stanford University](https://cs.stanford.edu/) in :round_pushpin:Palo Alto, CA! 
+## I am a :biking_man: undergrad at [:evergreen_tree: Stanford University](https://cs.stanford.edu/) in :round_pushpin:Palo Alto, CA! 
 
 I'm interested in:
 
@@ -11,7 +11,7 @@ I'm interested in:
 - :desktop_computer: Systems Programming
 - :abacus: Mathematics
 
-I graduated as :2nd_place_medal: Salutatorian from the :mortar_board: [School of Science and Engineering (SEM)](https://www.semagnet.org/) in :cowboy_hat_face: Dallas, TX!
+I graduated as :1st_place_medal: Salutatorian from the :mortar_board: [School of Science and Engineering (SEM)](https://www.semagnet.org/) in :cowboy_hat_face: Dallas, TX!
 
 <!--### I'm currently-->
 

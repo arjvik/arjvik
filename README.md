@@ -1,6 +1,6 @@
 # Hi, I'm Arjun Vikram
 
-## I am a :biking_man: Freshman at [:evergreen_tree: Stanford University](https://cs.stanford.edu/) in :round_pushpin:Palo Alto, CA! 
+## I am a :biking_man: student at [:evergreen_tree: Stanford University](https://cs.stanford.edu/) in :round_pushpin:Palo Alto, CA! 
 
 I'm interested in:
 

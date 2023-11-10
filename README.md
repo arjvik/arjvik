@@ -22,8 +22,8 @@ In the past, I've
 - Researched applying :eye: Computer Vision techniques to Cancer Histopathology with the [:test_tube: Rajaram Lab at UT Southwestern](https://www.rajaramlab.org/).
 - Volunteered with the [:basketball: Mark Cuban AI Foundation](https://markcubancompanies.com/projects/ai-bootcamps/) to :man_teacher: teach the basics of Artificial Intelligence to :woman_student: high school students from underserved communities with :negative_squared_cross_mark: no technical background.
 
-<p align="center">
+<!--p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arjvik&include_all_commits=true&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=ffff00&border_radius=20&hide_border=true" alt="Arjun Vikram's GitHub Stats"/>
-</p>
+</p-->
 
 ### <p align="center"> :point_down: Check out my favorite projects below :point_down: </p>

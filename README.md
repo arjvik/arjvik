@@ -1,17 +1,17 @@
 # Hi, I'm Arjun Vikram
 
-## I am a :biking_man: undergrad at [:evergreen_tree: Stanford University](https://cs.stanford.edu/) in :round_pushpin:Palo Alto, CA! 
+## I am a 🚴‍♂️ undergrad at [🌲 Stanford University](https://cs.stanford.edu/) in 📍Palo Alto, CA! 
 
 I'm interested in:
 
-- :brain: Machine Learning and Artificial Intelligence
-- :gear: DevOps and MLOps
-- :dna: Bioinformatics
-- :robot: Robotics
-- :desktop_computer: Systems Programming
-- :abacus: Mathematics
+- 🧠 Machine Learning and Artificial Intelligence
+- ⚙️ DevOps and MLOps
+- 🧬 Bioinformatics
+- 🤖 Robotics
+- 🖥️ Systems Programming
+- 🧮 Mathematics
 
-I graduated as :1st_place_medal: Salutatorian from the :mortar_board: [School of Science and Engineering (SEM)](https://www.semagnet.org/) in :cowboy_hat_face: Dallas, TX!
+I graduated as 🥇 Salutatorian from the 🎓 [School of Science and Engineering (SEM)](https://www.semagnet.org/) in 🤠 Dallas, TX!
 
 <!--### I'm currently-->
 

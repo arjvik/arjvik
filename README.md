@@ -1,4 +1,4 @@
-# Hi, I'm Arjun!
+# Hi, I'm Arjun! <img align="right" src="./film.png" height="300" />
 
 🌲 Stanford University
 📍 Palo Alto, CA

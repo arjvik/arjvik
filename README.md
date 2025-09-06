@@ -1,5 +1,6 @@
 # Hi, I'm Arjun! <img align="right" src="./film.png" height="300" />
 
+✨ OpenAI
 🌲 Stanford University
 📍 Palo Alto, CA
 ⛓️ Systems/ML
